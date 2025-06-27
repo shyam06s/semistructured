@@ -40,3 +40,5 @@ models:
       +materialized: table
     xml:
       +materialized: table
+    banking:
+      +materialized: table
